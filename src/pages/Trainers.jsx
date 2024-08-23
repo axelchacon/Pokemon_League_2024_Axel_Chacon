@@ -972,15 +972,10 @@ function Trainers() {
 				<select
 					id="region-select"
 					onChange={handleRegionChange}
-					className="border border-gray-300 rounded px-4 py-2 text-green-900 bg-green-200">
-					<option value="" className="text-green-800">
-						-- Select a Region --
-					</option>
+					className="border rounded px-4 py-2">
+					<option value="">-- Select a Region --</option>
 					{regions.map((region) => (
-						<option
-							key={region.name}
-							value={region.name}
-							className="text-green-800">
+						<option key={region.name} value={region.name}>
 							{region.name}
 						</option>
 					))}
@@ -988,18 +983,16 @@ function Trainers() {
 			</div>
 
 			{selectedRegion && (
-				<div className="overflow-x-auto bg-opacity-50 rounded-lg shadow-lg">
-					<table className="min-w-full bg-transparent text-white">
+				<div className="overflow-x-auto">
+					<table className="min-w-full table-auto text-white rounded-lg">
 						<thead>
 							<tr>
-								<th className="px-4 py-2 border border-green-700">ID</th>
-								<th className="px-4 py-2 border border-green-700">Image</th>
-								<th className="px-4 py-2 border border-green-700">Trainer</th>
-								<th className="px-4 py-2 border border-green-700">Pokemon</th>
-								<th className="px-4 py-2 border border-green-700">
-									Total Pokemon
-								</th>
-								<th className="px-4 py-2 border border-green-700">Score</th>
+								<th className="px-4 py-2">ID</th>
+								<th className="px-4 py-2">Image</th>
+								<th className="px-4 py-2">Trainer</th>
+								<th className="px-4 py-2">Pokemon</th>
+								<th className="px-4 py-2">Total Pokemon</th>
+								<th className="px-4 py-2">Score</th>
 							</tr>
 						</thead>
 						<tbody>
