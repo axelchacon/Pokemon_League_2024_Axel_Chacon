@@ -9,11 +9,12 @@ body {
 		rgba(11, 60, 93, 1) 100%
 	);
 	margin: 0;
-	font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
-		"Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
-		sans-serif;
+	font-family: "Inter", sans-serif;
 	-webkit-font-smoothing: antialiased;
 	-moz-osx-font-smoothing: grayscale;
+	min-height: 100vh;
+	display: flex;
+	flex-direction: column;
 }
 
 .container {
@@ -27,32 +28,29 @@ h4,
 h5,
 h6 {
 	color: white;
+	text-align: center;
 }
 
-select {
-	background-color: #1e3a8a; /* Fondo azul oscuro */
+main {
+	flex-grow: 1;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	text-align: center;
+}
+
+footer {
+	padding: 1rem 0;
 	color: white;
-	border: none;
+	text-align: center;
+	background: none;
 }
 
-table {
-	background-color: rgba(255, 255, 255, 0.2); /* Fondo translúcido */
-}
-
-th,
-td {
-	border: 1px solid rgba(255, 255, 255, 0.2);
-}
-
-th {
-	background-color: rgba(0, 0, 0, 0.5); /* Fondo más oscuro para encabezados */
-}
-
-td {
-	background-color: rgba(
-		255,
-		255,
-		255,
-		0.1
-	); /* Fondo translúcido para celdas */
+.header,
+.content,
+.footer {
+	background: none;
+	margin: 0;
+	padding: 0;
 }
