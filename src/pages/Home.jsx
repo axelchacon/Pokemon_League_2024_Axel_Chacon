@@ -1,39 +1,36 @@
 import React from "react";
 import { Link } from "react-router-dom";
-import logo from "../assets/images/LogoPokemon.jpeg";
+//import logo from "../assets/LogoPokemon.jpeg"; // Asegúrate de que el logo esté guardado en esta ruta
+import portadaHome from "../assets/PokeonLeague2024Portada.jpeg"; // Asegúrate de que el logo esté guardado en esta ruta
 
 function Home() {
 	return (
-		<div className="App">
-			<header className="App-header">
-				<img src={logo} className="App-logo" alt="logo" />
-				<h1>Welcome to the Pokemon League 2025!</h1>
-				<p>Get your tickets and check out the top trainers!</p>
-				<div className="cta-buttons">
-					<Link to="/trainers" className="cta-button cta-red">
-						See Top 10 Trainers
+		<div className="relative w-full h-screen bg-gradient-to-b from-blue-700 to-green-500">
+			<div className="container mx-auto flex flex-col items-center justify-center h-full">
+				<img
+					src={portadaHome}
+					alt="Pokemon League Portada"
+					className="w-64 h-auto mb-8"
+				/>
+				<h1 className="text-4xl md:text-6xl font-bold text-white text-center mb-4">
+					Welcome to the Pokemon League 2025!
+				</h1>
+				<p className="text-lg md:text-2xl text-white text-center mb-8">
+					Get your tickets and check out the top trainers!
+				</p>
+				<div className="flex space-x-4">
+					<Link to="/trainers">
+						<button className="px-6 py-3 bg-red-600 text-white text-lg font-semibold rounded-full hover:bg-red-700 transition duration-300">
+							See Top 10 Trainers
+						</button>
 					</Link>
-					<Link to="/tickets" className="cta-button cta-yellow">
-						Buy Tickets
+					<Link to="/tickets">
+						<button className="px-6 py-3 bg-yellow-600 text-white text-lg font-semibold rounded-full hover:bg-yellow-700 transition duration-300">
+							Buy Tickets
+						</button>
 					</Link>
 				</div>
-			</header>
-
-			{/* Footer Section */}
-			<footer className="App-footer">
-				<div className="footer-container">
-					<div className="footer-left">
-						<img src={logo} alt="Pokemon League Logo" className="footer-logo" />
-						<p className="footer-company-name">Pokemon League 2025</p>
-					</div>
-					<div className="footer-right">
-						<p className="footer-contact">Contact us:</p>
-						<p>Phone: +1-800-POKEMON</p>
-						<p>Email: support@pokemonleague.com</p>
-						<p>Address: 123 Pokemon Street, Pallet Town, Kanto Region</p>
-					</div>
-				</div>
-			</footer>
+			</div>
 		</div>
 	);
 }
