@@ -29,7 +29,7 @@ function Trainers() {
 						id: 1,
 						name: "Ash Ketchum",
 						image:
-							"https://www.pokexperto.net/pokemonmasters/arte/entrenadores/nivea.png",
+							"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeUxdu-6R3onIYWQCon1ZkQVezCxjW0PCuKiFRslzV2uo8HqD6-KC-pV9d1Z50LicTRZE&usqp=CAU",
 						mainPokemon: "pikachu",
 						totalPokemon: 5,
 						score: 500,
@@ -38,7 +38,7 @@ function Trainers() {
 						id: 2,
 						name: "Misty",
 						image:
-							"https://www.pokexperto.net/pokemonmasters/arte/entrenadores/misty.png",
+							"https://w7.pngwing.com/pngs/766/545/png-transparent-misty-pokemon-x-and-y-pokemon-omega-ruby-and-alpha-sapphire-ash-ketchum-pokemon-misty-hand-human-cartoon-thumbnail.png",
 						mainPokemon: "starmie",
 						totalPokemon: 4,
 						score: 480,
@@ -47,7 +47,7 @@ function Trainers() {
 						id: 3,
 						name: "Brock",
 						image:
-							"https://www.pokexperto.net/pokemonmasters/arte/entrenadores/brock.png",
+							"https://images.wikidexcdn.net/mwuploads/wikidex/3/3b/latest/20180812021535/Brock_LGPE.png",
 						mainPokemon: "onix",
 						totalPokemon: 4,
 						score: 470,
@@ -56,7 +56,7 @@ function Trainers() {
 						id: 4,
 						name: "Lt. Surge",
 						image:
-							"https://www.pokexperto.net/pokemonmasters/arte/entrenadores/lt_surge.png",
+							"https://images.wikidexcdn.net/mwuploads/wikidex/2/20/latest/20110403010512/Caballero_RFVH.png",
 						mainPokemon: "raichu",
 						totalPokemon: 4,
 						score: 460,
@@ -65,7 +65,7 @@ function Trainers() {
 						id: 5,
 						name: "Erika",
 						image:
-							"https://www.pokexperto.net/pokemonmasters/arte/entrenadores/erika.png",
+							"https://images.wikidexcdn.net/mwuploads/wikidex/7/70/latest/20110403010059/Campista_RFVH.png",
 						mainPokemon: "vileplume",
 						totalPokemon: 4,
 						score: 450,
@@ -74,7 +74,7 @@ function Trainers() {
 						id: 6,
 						name: "Sabrina",
 						image:
-							"https://www.pokexperto.net/pokemonmasters/arte/entrenadores/sabrina.png",
+							"https://images.wikidexcdn.net/mwuploads/wikidex/6/61/latest/20070113132052/Domador_RFVH.png",
 						mainPokemon: "alakazam",
 						totalPokemon: 4,
 						score: 440,
@@ -83,7 +83,7 @@ function Trainers() {
 						id: 7,
 						name: "Koga",
 						image:
-							"https://www.pokexperto.net/pokemonmasters/arte/entrenadores/koga.png",
+							"https://images.wikidexcdn.net/mwuploads/wikidex/4/4c/latest/20070113131354/Malabarista_RFVH.png",
 						mainPokemon: "venomoth",
 						totalPokemon: 4,
 						score: 430,
@@ -92,7 +92,7 @@ function Trainers() {
 						id: 8,
 						name: "Blaine",
 						image:
-							"https://www.pokexperto.net/pokemonmasters/arte/entrenadores/blaine.png",
+							"https://images.wikidexcdn.net/mwuploads/wikidex/e/e1/latest/20110403010918/Nadadora_RFVH.png",
 						mainPokemon: "arcanine",
 						totalPokemon: 4,
 						score: 420,
@@ -101,7 +101,7 @@ function Trainers() {
 						id: 9,
 						name: "Giovanni",
 						image:
-							"https://www.pokexperto.net/pokemonmasters/arte/entrenadores/giovanni.png",
+							"https://images.wikidexcdn.net/mwuploads/wikidex/a/a5/latest/20080502041444/Bella_DP.png",
 						mainPokemon: "nidoqueen",
 						totalPokemon: 4,
 						score: 410,
@@ -110,7 +110,7 @@ function Trainers() {
 						id: 10,
 						name: "Lorelei",
 						image:
-							"https://www.pokexperto.net/pokemonmasters/arte/entrenadores/lorelei.png",
+							"https://images.wikidexcdn.net/mwuploads/wikidex/7/79/latest/20080813164151/Chica_DP.png",
 						mainPokemon: "lapras",
 						totalPokemon: 4,
 						score: 400,
@@ -121,7 +121,7 @@ function Trainers() {
 						id: 1,
 						name: "Ethan",
 						image:
-							"https://www.pokexperto.net/pokemonmasters/arte/entrenadores/ethan.png",
+							"https://images.wikidexcdn.net/mwuploads/wikidex/1/15/latest/20081219204925/Bella_RAA.png",
 						mainPokemon: "typhlosion",
 						totalPokemon: 5,
 						score: 500,
@@ -130,7 +130,7 @@ function Trainers() {
 						id: 2,
 						name: "Kris",
 						image:
-							"https://www.pokexperto.net/pokemonmasters/arte/entrenadores/kris.png",
+							"https://images.wikidexcdn.net/mwuploads/wikidex/2/2c/latest/20230930070149/Chica_RAA.png",
 						mainPokemon: "feraligatr",
 						totalPokemon: 5,
 						score: 480,
@@ -139,7 +139,7 @@ function Trainers() {
 						id: 3,
 						name: "Silver",
 						image:
-							"https://www.pokexperto.net/pokemonmasters/arte/entrenadores/silver.png",
+							"https://images.wikidexcdn.net/mwuploads/wikidex/6/6b/latest/20081219205138/Entrenadora_guay_RAA.png",
 						mainPokemon: "sneasel",
 						totalPokemon: 4,
 						score: 470,
@@ -148,7 +148,7 @@ function Trainers() {
 						id: 4,
 						name: "Whitney",
 						image:
-							"https://www.pokexperto.net/pokemonmasters/arte/entrenadores/whitney.png",
+							"https://images.wikidexcdn.net/mwuploads/wikidex/2/22/latest/20230930070851/Joven_RAA.png",
 						mainPokemon: "miltank",
 						totalPokemon: 4,
 						score: 460,
@@ -157,7 +157,7 @@ function Trainers() {
 						id: 5,
 						name: "Morty",
 						image:
-							"https://www.pokexperto.net/pokemonmasters/arte/entrenadores/morty.png",
+							"https://images.wikidexcdn.net/mwuploads/wikidex/5/52/latest/20081219205636/Malabarista_RAA.png",
 						mainPokemon: "gengar",
 						totalPokemon: 4,
 						score: 450,
@@ -166,7 +166,7 @@ function Trainers() {
 						id: 6,
 						name: "Chuck",
 						image:
-							"https://www.pokexperto.net/pokemonmasters/arte/entrenadores/chuck.png",
+							"https://images.wikidexcdn.net/mwuploads/wikidex/1/1a/latest/20231002172351/Monta%C3%B1ero_RAA.png",
 						mainPokemon: "primeape",
 						totalPokemon: 4,
 						score: 440,
@@ -175,7 +175,7 @@ function Trainers() {
 						id: 7,
 						name: "Jasmine",
 						image:
-							"https://www.pokexperto.net/pokemonmasters/arte/entrenadores/jasmine.png",
+							"https://images.wikidexcdn.net/mwuploads/wikidex/d/d8/latest/20240101120140/Pescador_RAA.png",
 						mainPokemon: "steelix",
 						totalPokemon: 4,
 						score: 430,
@@ -184,7 +184,7 @@ function Trainers() {
 						id: 8,
 						name: "Pryce",
 						image:
-							"https://www.pokexperto.net/pokemonmasters/arte/entrenadores/pryce.png",
+							"https://images.wikidexcdn.net/mwuploads/wikidex/d/de/latest/20231229151320/Caballero_RAA.png",
 						mainPokemon: "piloswine",
 						totalPokemon: 4,
 						score: 420,
@@ -193,7 +193,7 @@ function Trainers() {
 						id: 9,
 						name: "Clair",
 						image:
-							"https://www.pokexperto.net/pokemonmasters/arte/entrenadores/clair.png",
+							"https://images.wikidexcdn.net/mwuploads/wikidex/d/d4/latest/20081219204926/Cient%C3%ADfico_RAA.png",
 						mainPokemon: "kingdra",
 						totalPokemon: 4,
 						score: 410,
@@ -202,7 +202,7 @@ function Trainers() {
 						id: 10,
 						name: "Karen",
 						image:
-							"https://www.pokexperto.net/pokemonmasters/arte/entrenadores/karen.png",
+							"https://images.wikidexcdn.net/mwuploads/wikidex/3/32/latest/20081219205420/Jug%C3%B3n_RAA.png",
 						mainPokemon: "umbreon",
 						totalPokemon: 4,
 						score: 400,
@@ -213,7 +213,7 @@ function Trainers() {
 						id: 1,
 						name: "Brendan",
 						image:
-							"https://www.pokexperto.net/pokemonmasters/arte/entrenadores/brendan.png",
+							"https://images.wikidexcdn.net/mwuploads/wikidex/9/9c/latest/20240101115320/Marinero_RAA.png",
 						mainPokemon: "swampert",
 						totalPokemon: 5,
 						score: 500,
@@ -222,7 +222,7 @@ function Trainers() {
 						id: 2,
 						name: "May",
 						image:
-							"https://www.pokexperto.net/pokemonmasters/arte/entrenadores/may.png",
+							"https://images.wikidexcdn.net/mwuploads/wikidex/9/92/latest/20081219205637/Motorista_RAA.png",
 						mainPokemon: "blaziken",
 						totalPokemon: 5,
 						score: 480,
@@ -231,7 +231,7 @@ function Trainers() {
 						id: 3,
 						name: "Roxanne",
 						image:
-							"https://www.pokexperto.net/pokemonmasters/arte/entrenadores/roxanne.png",
+							"https://images.wikidexcdn.net/mwuploads/wikidex/f/fd/latest/20081219205929/Pok%C3%A9man%C3%ADaco_RAA.png",
 						mainPokemon: "nosepass",
 						totalPokemon: 4,
 						score: 470,
@@ -240,7 +240,7 @@ function Trainers() {
 						id: 4,
 						name: "Brawly",
 						image:
-							"https://www.pokexperto.net/pokemonmasters/arte/entrenadores/brawly.png",
+							"https://images.wikidexcdn.net/mwuploads/wikidex/9/94/latest/20081219204926/Calvo_RAA.png",
 						mainPokemon: "hariyama",
 						totalPokemon: 4,
 						score: 460,
@@ -249,7 +249,7 @@ function Trainers() {
 						id: 5,
 						name: "Wattson",
 						image:
-							"https://www.pokexperto.net/pokemonmasters/arte/entrenadores/wattson.png",
+							"https://images.wikidexcdn.net/mwuploads/wikidex/e/ec/latest/20081219205138/Domador_RAA.png",
 						mainPokemon: "manectric",
 						totalPokemon: 4,
 						score: 450,
@@ -258,7 +258,7 @@ function Trainers() {
 						id: 6,
 						name: "Flannery",
 						image:
-							"https://www.pokexperto.net/pokemonmasters/arte/entrenadores/flannery.png",
+							"https://images.wikidexcdn.net/mwuploads/wikidex/e/e5/latest/20231013142904/Dominguera_RAA.png",
 						mainPokemon: "torkoal",
 						totalPokemon: 4,
 						score: 440,
@@ -267,7 +267,7 @@ function Trainers() {
 						id: 7,
 						name: "Norman",
 						image:
-							"https://www.pokexperto.net/pokemonmasters/arte/entrenadores/norman.png",
+							"https://images.wikidexcdn.net/mwuploads/wikidex/9/95/latest/20080818105853/Mec%C3%A1nico_RAA.png",
 						mainPokemon: "slaking",
 						totalPokemon: 4,
 						score: 430,
@@ -276,7 +276,7 @@ function Trainers() {
 						id: 8,
 						name: "Winona",
 						image:
-							"https://www.pokexperto.net/pokemonmasters/arte/entrenadores/winona.png",
+							"https://images.wikidexcdn.net/mwuploads/wikidex/7/7a/latest/20231013142827/Nadador_RAA.png",
 						mainPokemon: "altaria",
 						totalPokemon: 4,
 						score: 420,
@@ -285,7 +285,7 @@ function Trainers() {
 						id: 9,
 						name: "Tate & Liza",
 						image:
-							"https://www.pokexperto.net/pokemonmasters/arte/entrenadores/tate_liza.png",
+							"https://images.wikidexcdn.net/mwuploads/wikidex/f/f0/latest/20240301215450/Rockero_RAA.png",
 						mainPokemon: "lunatone",
 						totalPokemon: 4,
 						score: 410,
@@ -294,7 +294,7 @@ function Trainers() {
 						id: 10,
 						name: "Wallace",
 						image:
-							"https://www.pokexperto.net/pokemonmasters/arte/entrenadores/wallace.png",
+							"https://images.wikidexcdn.net/mwuploads/wikidex/c/c9/latest/20230920051814/Cazabichos_RAA.png",
 						mainPokemon: "milotic",
 						totalPokemon: 4,
 						score: 400,
@@ -986,16 +986,18 @@ function Trainers() {
 				<div className="overflow-x-auto">
 					<table className="min-w-full table-auto text-white rounded-lg">
 						<thead>
-							<tr>
-								<th className="px-4 py-2">ID</th>
-								<th className="px-4 py-2">Image</th>
-								<th className="px-4 py-2">Trainer</th>
-								<th className="px-4 py-2">Pokemon</th>
-								<th className="px-4 py-2">Total Pokemon</th>
+							<tr className="bg-blue-700">
+								<th className="px-4 py-2 border-r border-gray-300">ID</th>
+								<th className="px-4 py-2 border-r border-gray-300">Image</th>
+								<th className="px-4 py-2 border-r border-gray-300">Trainer</th>
+								<th className="px-4 py-2 border-r border-gray-300">Pokemon</th>
+								<th className="px-4 py-2 border-r border-gray-300">
+									Total Pokemon
+								</th>
 								<th className="px-4 py-2">Score</th>
 							</tr>
 						</thead>
-						<tbody>
+						<tbody className="bg-blue-600">
 							{trainersData.map((trainer, index) => (
 								<TrainerRow key={index} trainer={trainer} />
 							))}

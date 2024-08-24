@@ -1,26 +1,39 @@
 import React from "react";
 import { Link } from "react-router-dom";
+import logo from "../assets/images/LogoPokemon.jpeg";
 
 function Navbar() {
 	return (
-		<nav className="bg-green-900 p-4 shadow-lg">
-			<ul className="flex justify-around text-green-200">
-				<li>
-					<Link to="/" className="hover:text-green-400">
+		<nav className="bg-green-700 p-4">
+			<div className="container mx-auto flex justify-between items-center">
+				<div className="flex items-center">
+					<img
+						src={logo}
+						alt="Pokemon League Logo"
+						className="h-12 w-12 mr-4"
+					/>
+					<span className="text-white text-xl font-bold">
+						Pokemon League 2025
+					</span>
+				</div>
+				<div className="flex space-x-8">
+					<Link
+						to="/"
+						className="text-white text-lg font-semibold hover:text-gray-200">
 						Home
 					</Link>
-				</li>
-				<li>
-					<Link to="/tickets" className="hover:text-green-400">
+					<Link
+						to="/tickets"
+						className="text-white text-lg font-semibold hover:text-gray-200">
 						Tickets
 					</Link>
-				</li>
-				<li>
-					<Link to="/trainers" className="hover:text-green-400">
+					<Link
+						to="/trainers"
+						className="text-white text-lg font-semibold hover:text-gray-200">
 						Top Trainers
 					</Link>
-				</li>
-			</ul>
+				</div>
+			</div>
 		</nav>
 	);
 }
