@@ -13,7 +13,7 @@ function Navbar() {
 						className="h-12 w-12 mr-4"
 					/>
 					<span className="text-white text-xl font-bold">
-						Pokemon League 2025
+						Pokemon League 2024
 					</span>
 				</div>
 				<div className="flex space-x-8">
