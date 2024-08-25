@@ -1,6 +1,5 @@
 import React from "react";
 import { Link } from "react-router-dom";
-//import logo from "../assets/LogoPokemon.jpeg"; // Asegúrate de que el logo esté guardado en esta ruta
 import portadaHome from "../assets/PokeonLeague2024Portada.jpeg"; // Asegúrate de que el logo esté guardado en esta ruta
 
 function Home() {
