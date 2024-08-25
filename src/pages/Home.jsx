@@ -1,6 +1,6 @@
 import React from "react";
 import { Link } from "react-router-dom";
-import portadaHome from "../assets/PokeonLeague2024Portada.jpeg"; // Asegúrate de que el logo esté guardado en esta ruta
+import portadaHome from "../assets/PokemonLeague2024Portada.jpeg"; // Asegúrate de que la ruta y el nombre de la imagen sean correctos
 
 function Home() {
 	return (
@@ -30,6 +30,22 @@ function Home() {
 					</Link>
 				</div>
 			</div>
+			<footer className="w-full bg-gray-900 text-white py-8 mt-auto">
+				<div className="container mx-auto text-center">
+					<h3 className="text-lg font-semibold mb-4">Contact Us</h3>
+					<p className="mb-2">
+						For any inquiries or questions about the event, please contact us:
+					</p>
+					<a
+						href="mailto:info@pokemonleague.com?subject=Event Inquiry"
+						className="text-blue-400 hover:text-blue-600">
+						axelchacon200@gmail.com
+					</a>
+					<div className="mt-4">
+						<p>&copy; 2024 Axel Diego Chacón Pérez. All rights reserved.</p>
+					</div>
+				</div>
+			</footer>
 		</div>
 	);
 }

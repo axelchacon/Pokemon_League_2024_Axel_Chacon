@@ -1,20 +1,22 @@
 import React from "react";
 import { Link } from "react-router-dom";
-import logo from "../assets/images/LogoPokemon.jpeg";
+import logo from "../assets/images/LogoPokemon.jpeg"; // Asegúrate de que el logo esté guardado en esta ruta
 
 function Navbar() {
 	return (
 		<nav className="bg-green-700 p-4">
 			<div className="container mx-auto flex justify-between items-center">
 				<div className="flex items-center">
-					<img
-						src={logo}
-						alt="Pokemon League Logo"
-						className="h-12 w-12 mr-4"
-					/>
-					<span className="text-white text-xl font-bold">
+					<Link to="/">
+						<img
+							src={logo}
+							alt="Pokemon League Logo"
+							className="h-12 w-12 mr-4"
+						/>
+					</Link>
+					<Link to="/" className="text-white text-xl font-bold">
 						Pokemon League 2024
-					</span>
+					</Link>
 				</div>
 				<div className="flex space-x-8">
 					<Link
