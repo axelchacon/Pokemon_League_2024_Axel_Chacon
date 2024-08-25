@@ -15,7 +15,7 @@ function Navbar() {
 						/>
 					</Link>
 					<Link to="/" className="text-white text-xl font-bold">
-						Pokemon League 2024
+						Pokemon League 2025
 					</Link>
 				</div>
 				<div className="flex space-x-8">

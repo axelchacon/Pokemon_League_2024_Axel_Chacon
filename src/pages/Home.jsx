@@ -12,7 +12,7 @@ function Home() {
 					className="w-64 h-auto mb-8"
 				/>
 				<h1 className="text-4xl md:text-6xl font-bold text-white text-center mb-4">
-					Welcome to the Pokemon League 2024!
+					Welcome to the Pokemon League 2025!
 				</h1>
 				<p className="text-lg md:text-2xl text-white text-center mb-8">
 					Get your tickets and check out the top trainers!
